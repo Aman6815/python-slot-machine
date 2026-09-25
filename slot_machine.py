@@ -29,6 +29,7 @@ SYMBOL_VALUE = {
 
 
 
+
 def check_winnings(columns, lines, bet, values):
     """Check selected lines for matching symbols and calculate winnings."""
     winnings = 0
