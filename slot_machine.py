@@ -18,6 +18,7 @@ SYMBOL_COUNT = {
 
 
 
+
 # Payout multiplier for each symbol
 SYMBOL_VALUE = {
     "A": 5,
