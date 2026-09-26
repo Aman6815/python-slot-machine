@@ -8,6 +8,7 @@ MIN_BET = 1
 ROWS = 3
 COLS = 3
 
+
 # Number of each symbol available
 SYMBOL_COUNT = {
     "A": 2,
