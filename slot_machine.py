@@ -11,8 +11,10 @@ COLS = 3
 
 
 
+
 # Number of each symbol available
 SYMBOL_COUNT = {
+    
     "A": 2,
     "B": 4,
     "C": 6,
