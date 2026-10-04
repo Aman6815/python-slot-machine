@@ -9,7 +9,6 @@ ROWS = 3
 COLS = 3
 
 
-
 # Number of each symbol available
 SYMBOL_COUNT = {
     
@@ -18,7 +17,6 @@ SYMBOL_COUNT = {
     "C": 6,
     "D": 8
 }
-
 
 
 
